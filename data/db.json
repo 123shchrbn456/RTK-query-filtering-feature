@@ -1,0 +1,191 @@
+{
+    "cars": [
+        {
+            "id": 1,
+            "brand": "bmw",
+            "model": "520",
+            "engine": {
+                "fuel": "gas",
+                "volume": "2.5",
+                "horsePower": "230",
+                "cylindersAmount": "4"
+            },
+            "transmissionType": "automatic",
+            "year": "2015",
+            "price": "20000",
+            "currency": "USD",
+            "region": "Kyiv",
+            "drive": "AWD"
+        },
+        {
+            "id": 2,
+            "brand": "bmw",
+            "model": "420",
+            "engine": {
+                "fuel": "diesel",
+                "volume": "3",
+                "horsePower": "330",
+                "cylindersAmount": "6"
+            },
+            "transmissionType": "automatic",
+            "year": "2015",
+            "price": "20000",
+            "currency": "USD",
+            "region": "Kyiv",
+            "drive": "AWD"
+        },
+        {
+            "id": 3,
+            "brand": "audi",
+            "model": "a6",
+            "engine": {
+                "fuel": "hybrid",
+                "volume": "2",
+                "horsePower": "190",
+                "cylindersAmount": "6"
+            },
+            "transmissionType": "manual",
+            "year": "2009",
+            "price": "50000",
+            "currency": "USD",
+            "region": "Kyiv",
+            "drive": "AWD"
+        },
+        {
+            "id": 4,
+            "brand": "renault",
+            "model": "logan",
+            "engine": {
+                "fuel": "gas",
+                "volume": "2",
+                "horsePower": "190",
+                "cylindersAmount": "6"
+            },
+            "transmissionType": "manual",
+            "year": "2009",
+            "price": "50000",
+            "currency": "USD",
+            "region": "Kyiv",
+            "drive": "AWD"
+        },
+        {
+            "id": 5,
+            "brand": "renault",
+            "model": "megane",
+            "engine": {
+                "fuel": "diesel",
+                "volume": "2",
+                "horsePower": "190",
+                "cylindersAmount": "6"
+            },
+            "transmissionType": "manual",
+            "year": "2009",
+            "price": "50000",
+            "currency": "USD",
+            "region": "Kyiv",
+            "drive": "AWD"
+        },
+        {
+            "id": 6,
+            "brand": "ford",
+            "model": "transit",
+            "engine": {
+                "fuel": "diesel",
+                "volume": "2",
+                "horsePower": "190",
+                "cylindersAmount": "6"
+            },
+            "transmissionType": "manual",
+            "year": "2009",
+            "price": "11000",
+            "currency": "USD",
+            "region": "Kyiv",
+            "drive": "AWD"
+        },
+        {
+            "id": 7,
+            "brand": "mercedes",
+            "model": "c-klass",
+            "engine": {
+                "fuel": "diesel",
+                "volume": "4.5",
+                "horsePower": "530",
+                "cylindersAmount": "8"
+            },
+            "transmissionType": "automatic",
+            "year": "2022",
+            "price": "30000",
+            "currency": "USD",
+            "region": "Kyiv",
+            "drive": "AWD"
+        },
+        {
+            "id": 8,
+            "brand": "ford",
+            "model": "kuga",
+            "engine": {
+                "fuel": "hybrid",
+                "volume": "1.0",
+                "horsePower": "120",
+                "cylindersAmount": "3"
+            },
+            "transmissionType": "automatic",
+            "year": "2019",
+            "price": "25000",
+            "currency": "USD",
+            "region": "Lviv",
+            "drive": "FWD"
+        },
+        {
+            "id": 9,
+            "brand": "mercedes",
+            "model": "140",
+            "engine": {
+                "fuel": "gas",
+                "volume": "6",
+                "horsePower": "470",
+                "cylindersAmount": "8"
+            },
+            "transmissionType": "automatic",
+            "year": "1995",
+            "price": "7000",
+            "currency": "USD",
+            "region": "Donetsk",
+            "drive": "RWD"
+        },
+        {
+            "id": 10,
+            "brand": "ferrari",
+            "model": "488",
+            "engine": {
+                "fuel": "gas",
+                "volume": "6",
+                "horsePower": "670",
+                "cylindersAmount": "10"
+            },
+            "transmissionType": "automatic",
+            "year": "2015",
+            "price": "122000",
+            "currency": "USD",
+            "region": "Abu Dabi",
+            "drive": "RWD"
+        },
+        {
+            "id": 11,
+            "brand": "Volkswaggen ",
+            "model": "Gold GTI",
+            "engine": {
+                "fuel": "gas",
+                "volume": "2.0",
+                "horsePower": "320",
+                "cylindersAmount": "4"
+            },
+            "transmissionType": "automatic",
+            "year": "2019",
+            "price": "35000",
+            "currency": "USD",
+            "region": "Berlin",
+            "drive": "FWD"
+        }
+    ]
+}
